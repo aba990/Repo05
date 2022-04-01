@@ -7,4 +7,4 @@ function main() {
     return myString;
 }	
 console.log(main());	
-module.experts = main;
+module.exports = main;
