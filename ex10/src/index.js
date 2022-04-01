@@ -7,4 +7,4 @@ function main() {
     return firstLetterOfLastName;
 }	
 console.log(main());	
-module.experts = main;
+module.exports = main;
